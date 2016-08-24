@@ -56,6 +56,8 @@ In the RunSMC_est.m file, data from "Input" folder is loaded and all other funct
 OutY2014_Sec20018.xlsx/ Y2014_Sec20018.mat ( Time required to estimate: 0.73 hours)
 OutY2009_Sec20055.xlsx/ Y2009_Sec20055.mat ( Time required to estimate: 13.5 hours)
 
+In TableGenerate.m file, Table 1 to Table 4 will be generated from the "Output" data.
+
 Computer system:
 Processor: Intel(R) Xeon(R) CPU W3530 @ 2.80GHz
 Installed memory: 8.00 GB
