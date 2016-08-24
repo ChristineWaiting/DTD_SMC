@@ -40,6 +40,9 @@ Y2014G020082.mat, Y2009G020082.mat, engineering&construction in 2009 and 2014.
 - TotalA  : total asset 
 - Rf      : interest rate
 
+RandFirm_20051.mat: 40 Banks selected in paper
+RandFirm_20055.mat: 40 Insurances selected in paper
+
 Output files: 
 
 Y2009_Sec20018.mat, Y2014_Sec20018.mat, Y2009_Sec20082.mat, Y2014_Sec20082.mat, 
