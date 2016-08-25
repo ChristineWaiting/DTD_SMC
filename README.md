@@ -12,14 +12,14 @@ Author: Jin-Chuan Duan and Christine Wei-Ting Wang
 
 Submitted:
 Input files: Y2009G020018.mat, Y2014G020018.mat, airlines in 2009 and 2014, Y2009G020051.mat, Y2014G020051.mat, banks in 2009 and 2014, Y2009G020055.mat, Y2014G020055.mat, insurance in 2009 and 2014, Y2014G020082.mat, Y2009G020082.mat, engineering&construction in 2009 and 2014.
-•	Date: 250 daily observations for each firm up to the end of the year
-•	FirmCode: classified into 76 industry groups by Bloomberg Industry Classification System (BICS)
-•	Equity: market capitalization
-•	ShortD: short term debt
-•	LongD: long term debt
-•	otherL: other liability
-•	TotalA: total asset
-•	Rf: interest rate
+- Date: 250 daily observations for each firm up to the end of the year
+-	FirmCode: classified into 76 industry groups by Bloomberg Industry Classification System (BICS)
+-	Equity: market capitalization
+-	ShortD: short term debt
+-	LongD: long term debt
+-	otherL: other liability
+-	TotalA: total asset
+-	Rf: interest rate
 RandFirm_20051.mat: 40 Banks selected in paper. 
 RandFirm_20055.mat: 40 Insurances selected in paper.
 
