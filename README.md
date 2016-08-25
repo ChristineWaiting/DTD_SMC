@@ -10,7 +10,7 @@ Keywords: Distance-to-Default, credit risk model, sequential Monte Carlo method,
 
 Author: Jin-Chuan Duan and Christine Wei-Ting Wang
 
-Submitted:
+Submitted: August 25, 2016
 
 Input files: 
 
