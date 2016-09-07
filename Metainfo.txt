@@ -32,4 +32,7 @@ Table1.png, Table2.png, Table3.png, Table4.png
 Data files: 
 deltaSD.mat, deltaSD_step3.mat 
 
-Computer system: Processor: Intel(R) Xeon(R) CPU W3530 @ 2.80GHz Installed memory: 8.00 GB Software: MATLAB R2013b
+Computer system: 
+Processor: Intel(R) Xeon(R) 
+CPU W3530 @ 2.80GHz 
+Installed memory: 8.00 GB Software: MATLAB R2013b
