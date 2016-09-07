@@ -23,6 +23,7 @@ Y2009G020018.mat, Y2014G020018.mat, airlines in 2009 and 2014, Y2009G020051.mat,
 -	otherL: other liability
 -	TotalA: total asset
 -	Rf: interest rate
+
 Output:
 RandFirm_20051.mat: 40 Banks selected in paper. RandFirm_20055.mat: 40 Insurances selected in paper.
 Y2009_Sec20018.mat, Y2014_Sec20018.mat, Y2009_Sec20082.mat, Y2014_Sec20082.mat, Y2009_Sec20051.mat, Y2014_Sec20051.mat, Y2009_Sec20055.mat, Y2014_Sec20055.mat OutY2009_Sec20018.xlsx, OutY2009_Sec20051.xlsx, OutY2009_Sec20055.xlsx, OutY2009_Sec20082.xlsx, OutY2014_Sec20018.xlsx, OutY2014_Sec20051.xlsx, OutY2014_Sec20055.xlsx, OutY2014_Sec20082.xlsx
