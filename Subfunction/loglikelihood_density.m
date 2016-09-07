@@ -37,8 +37,8 @@ else % Mixed Truncated Normal
     trunConst(1)=sigma(1)*(normcdf(1,mu(1),sigma(1))-normcdf(0,mu(1),sigma(1))); %I_0
     trunConst(2)=sigma(2)*(normcdf(1,mu(2),sigma(2))-normcdf(0,mu(2),sigma(2))); %I_p
     end
-    LnP1=lnMNpdf(theta,mu(1),sigma(1)*sigma(1));
-    LnP2=lnMNpdf(theta,mu(2),sigma(2)*sigma(2));
+    LnP1=lnMNpdf(theta,mu(1),1/varcov(1));
+    LnP2=lnMNpdf(theta,mu(2),1/varcov(2));
     Const12=repmat(max(max(LnP1,LnP2)),Nparam,1) ;
     lnpdf=log( (1-MixW)*exp(LnP1-Const12)/trunConst(1)+MixW*exp(LnP2-Const12)/trunConst(2) )+Const12;
     
